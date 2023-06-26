@@ -1,3 +1,3 @@
 # CW-netflix
 
-### 🛠️ [Demo Link](https://ilkaytech.github.io/CW-netflix/)
+### 🛠️ [Demo Link](https://cw-netflix.netlify.app)
