@@ -2,7 +2,7 @@
 
 ## Description
 
-Project aims to create google landing page.
+Project aims to create netflix page.
 
 ## Project Skeleton
 
