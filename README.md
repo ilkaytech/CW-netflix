@@ -7,11 +7,10 @@ Project aims to create google landing page.
 ## Project Skeleton
 
 ```
-google-landing-page (folder)
-Sass Camping Website Design (folder)
+Netflix Page (folder)
 |
 |----readme.md         # Definition of the project
-|----images            # Images of the project
+|----img               # Images of the project
 |----solution
         |----index.html
         |----style.css
