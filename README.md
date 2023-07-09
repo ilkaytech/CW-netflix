@@ -27,9 +27,9 @@ Netflix Page (folder)
 
 ### The following issues are covered in the project;
 
-- HTML
+-- HTML
 
-- Css
+-- Css
 
 ## Resources
 
